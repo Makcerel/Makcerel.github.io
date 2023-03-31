@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>3</title>
+      <link href="/post/32231.html"/>
+      <url>/post/32231.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我比较喜欢的一个静止画mad<br>I prefer a seishiga mad<br>私のお気に入りの静止画madです</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"autoplay":true,"theme":"#FADFA3","loop":true,"lang":"zh-cn//语言","screenshot":true,"hotkey":true,"preload":"auto","volume":0.9,"video":{"url":"/resources/video/The Polestar.mp4","pic":"/resources/images/holy.png"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>真正意义上的第一稿</title>
+      <link href="/post/32298.html"/>
+      <url>/post/32298.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>#不知道这个能不能成功啊,其实只是一个测试<br>嗯,该怎么说呢,最近目标还是找工作,学习,日语最近重新的反复看在学了<br>但今天一天都在搞网站了,网站目前还需要学习,不断不断的建立<br>暂且就这样吧,也不知道还能写些什么,以后看看能不能弄个html播放器(放点mad)</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
